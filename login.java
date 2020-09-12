@@ -4,7 +4,7 @@ public class
 	{
 		system.out.println("Hello World");
                 system.out.println("This is my first program");
-	        system.out.println("Hi");
+	        system.out.println("am learning programming");
 
 	}
 }
